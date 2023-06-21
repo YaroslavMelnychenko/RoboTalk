@@ -8,3 +8,4 @@ urllib3
 feedparser
 pydub
 nltk
+google-api-python-client
