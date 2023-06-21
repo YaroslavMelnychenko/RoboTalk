@@ -15,6 +15,8 @@ from datetime import datetime
 from pydub import AudioSegment
 import nltk
 
+nltk.download('punkt')
+
 # Access the environment variables
 API_KEYS = {
     'OPENAI_API_KEY': config('OPENAI_API_KEY'),
