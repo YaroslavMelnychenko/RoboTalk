@@ -9,3 +9,4 @@ feedparser
 pydub
 nltk
 google-api-python-client
+openai
